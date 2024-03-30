@@ -11,7 +11,7 @@ Indicator Data (indicator–data). (2023). [dataset]. Open Data Vancouver. https
 
 ### Tools
 We used `Python3` in `Jupyter Notebooks` to process the raw data for the exploratory phase after first investigating using the City of Vancouver's Open Data Portal with online visualization and filtering tools. The data was finally processed with the following Python libraries
-```
+```python
 numpy==1.26.4
 matplotlib==8.8.3
 pandas==2.2.1
