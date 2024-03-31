@@ -29,4 +29,4 @@ Further annotations and embellishments were done using vector illustration tools
 
 ---
 ### The Visualization
-![Garden Visualization](https://raw.githubusercontent.com/Ham0osh/CMNS-313/main/Assignment%204/plots/gardenMap_v2.png)
+![Garden Visualization](https://raw.githubusercontent.com/Ham0osh/CMNS-313/main/Assignment%204/plots/garden-indicator-v3.png)
