@@ -22,11 +22,11 @@ hamhelper==1.12
 With road and map data provided by Stadia Maps using OpenMapTiles.\
 &copy; <a href="https://stadiamaps.com/" target="_blank">Stadia Maps</a>
 &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a>
-&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a>
-
+&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a>. \
+Contains information licensed under the Open Government Licence – Vancouver.
 ### Methods & Styling
 Further annotations and embellishments were done using vector illustration tools including Affinity Designer and Procreate.
 
 ---
 ### The Visualization
-![Garden Visualization](https://raw.githubusercontent.com/Ham0osh/CMNS-313/main/Assignment%204/plots/gardenMap_v2.png)
+![Garden Visualization](https://raw.githubusercontent.com/Ham0osh/CMNS-313/main/Assignment%204/plots/garden-indicator-v3.png)
